@@ -23,8 +23,8 @@ Author URI: http://littlethunder.co
 
 /* Typography */
 body {
-  font-family: 'Roboto Slab', serif;
-  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   color: #444;
    -webkit-font-smoothing: antialiased;
 }

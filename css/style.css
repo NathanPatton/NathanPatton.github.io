@@ -31,7 +31,6 @@ body {
 
 header {
   text-align: center;
-  text-transform: uppercase;
 }
 
 header p {
@@ -75,12 +74,12 @@ strong {
 
 a {
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 600;
   color: #333;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: ;
   color: #666;
 }
 
@@ -106,7 +105,7 @@ a:hover {
 
 .background {
    /* Delete background class from <body> for a vanilla style */
-   background: #f3f3f3; /*url(../images/background.jpg) top center no-repeat;*/
+   background: url(../images/background.jpg) top center no-repeat;
 }
 
 img.avatar {

@@ -1,11 +1,6 @@
-Hello World Personal Page
-=========================
 
-<<<<<<< Updated upstream
-A stylish and personable webpage to tell the world about yourself. View the [demo page](http://NathanPatton.github.io). 
-=======
-A stylish and personable webpage to tell the world about yourself. View the [demo page](http://NathanPatton.github.io/). 
->>>>>>> Stashed changes
+A stylish and personable webpage to tell the world about yourself. View the [demo page](http://NathanPatton.github.io/hello-world-page). 
+
 
 ![alt text](http://tejpotter.com/projects/hello-world-page/background.jpg "Hello World Personal Page by Tim Potter")
 
